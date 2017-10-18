@@ -4,4 +4,4 @@ Workshop Python untuk mahasiswa Unas, workshop ini bertujuan untuk mengenalkan b
 
 ## Materi
 
-* [Persiapan](persiapan)
+* [Persiapan](persiapan.md)
