@@ -5,4 +5,5 @@ Workshop Python untuk mahasiswa Unas, workshop ini bertujuan untuk mengenalkan b
 ## Materi
 
 * [Persiapan](persiapan.md)
-* [Dokumentasi](dokumentasi.md)
+* [Dokumentasi Python](dokumentasi.md)
+* [Pengenalan Python](pengantar.md)
