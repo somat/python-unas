@@ -9,3 +9,7 @@ Workshop Python untuk mahasiswa Unas, workshop ini bertujuan untuk mengenalkan b
 * [Pengenalan Python](pengantar.md)
 * [Penulisan Komentar](komentar.md)
 * [Indentasi](indentasi.md)
+
+## Resources
+
+* [Modul Workshop](https://github.com/somat/python-unas/raw/master/resources/module-workshop-python-2017.pdf)
