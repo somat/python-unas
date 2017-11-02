@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Hapus Member{% endblock %}
+
+{% block content %}
+
+    <h3 class="page-header">Hapus Member</h3>
+
+    <p>Yakin akan menghapus data ini?</p>
+
+    <table class="table">
+        <tr>
+            <td>Nama</td>
+            <td>{{ member.name }}</td>
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>{{ member.address }}</td>
+        </tr>
+        <tr>
+            <td>No. HP</td>
+            <td>{{ member.phone }}</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>{{ member.email }}</td>
+        </tr>
+    </table>
+
+    <form action="{{ url_for('delete_member', id=member.id) }}" method="post">
+        <button type="submit" class="btn btn-danger">Hapus</button>
+        &nbsp;&nbsp;&nbsp;
+        <a href="{{ url_for('home') }}" class="btn btn-default">Batal</a>
+    </form>
+
+{% endblock %}
