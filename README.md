@@ -13,3 +13,4 @@ Workshop Python untuk mahasiswa Unas, workshop ini bertujuan untuk mengenalkan b
 ## Resources
 
 * [Modul Workshop](https://github.com/somat/python-unas/raw/master/resources/module-workshop-python-2017.pdf)
+* [Presentasi](https://github.com/somat/python-unas/raw/master/resources/python-unas-introduction.odp)
