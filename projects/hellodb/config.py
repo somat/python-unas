@@ -1,0 +1,3 @@
+DEBUG = True
+SECRET_KEY = '4o+wmxWPA/BILInw6X4Oyqfs2PLTfBl93G0gY5RJkJQ='
+SQLALCHEMY_DATABASE_URI = 'mysql://root@127.0.0.1/hellodb'
